@@ -2,7 +2,7 @@
 name: BUG ISSUES
 about: In-Game Bug (other than quests)
 title: "[BUG]"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -10,6 +10,9 @@ assignees: ''
 <!-- IF YOU DO NOT FILL THIS TEMPLATE OUT, WE WILL CLOSE YOUR ISSUE! -->
 
 <!-- WRITE A RELEVANT TITLE -->
+
+
+#### WHICH SERVER(S) ARE  YOU CURRENTLY EXPERIENCING THE BUG ON?
 
 
 
@@ -31,7 +34,6 @@ assignees: ''
 #### STEPS TO REPRODUCE THE PROBLEM:
 <!-- Describe precisely how to reproduce the bug so we can fix it or confirm its existence:
  - Which commands to use? Which NPC to teleport to?
- - Do we need to have debug flags on Cmake?
  - Do we need to look at the console while the bug happens?
  - Other steps
 -->
@@ -41,9 +43,7 @@ assignees: ''
 3. 
 
 #### EXTRA NOTES:
-<!--
-Any information that can help the developers to identify and fix the issue should be put here.
-
+<!--Any information that can help the developers to identify and fix the issue should be put here.
 
 
 
